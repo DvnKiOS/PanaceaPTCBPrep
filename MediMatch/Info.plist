@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Main</string>
+					<key>SKAdNetworkItems</key>
+					<array>
+						<string>cstr6suwn9.skadnetwork</string>
+						<string>4fzdc2evr5.skadnetwork</string>
+						<string>4pfyvq9l8r.skadnetwork</string>
+						<string>2fnua5tdw4.skadnetwork</string>
+						<string>ydx93a7ass.skadnetwork</string>
+						<string>5a6flpkh64.skadnetwork</string>
+						<string>p78axxw29g.skadnetwork</string>
+						<string>v72qych5uu.skadnetwork</string>
+						<string>ludvb6z3bs.skadnetwork</string>
+						<string>cp8zw746q7.skadnetwork</string>
+						<string>c6k4g5qg8m.skadnetwork</string>
+						<string>s39g8k73mm.skadnetwork</string>
+						<string>3qy4746246.skadnetwork</string>
+						<string>3sh42y64q3.skadnetwork</string>
+						<string>f38h382jlk.skadnetwork</string>
+						<string>hs6bdukanm.skadnetwork</string>
+						<string>prcb7njmu6.skadnetwork</string>
+						<string>v4nxqhlyqp.skadnetwork</string>
+						<string>wzmmz9fp6w.skadnetwork</string>
+						<string>yclnxrl5pm.skadnetwork</string>
+						<string>t38b2kh725.skadnetwork</string>
+						<string>7ug5zh24hu.skadnetwork</string>
+						<string>9rd848q2bz.skadnetwork</string>
+						<string>y5ghdn5j9k.skadnetwork</string>
+					</array>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>GADApplicationIdentifier</key>
+	<string>ca-app-pub-7800528862862775~8415397591</string>
+</dict>
+</plist>
